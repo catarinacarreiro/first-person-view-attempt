@@ -1,2 +1,3 @@
 # first-person-view-attempt
-An attempt at learning how to make first person view commands on Unity
+
+This project is mn attempt at learning how to make first person view commands on Unity. I followed Brackey's tutorials on Level Creation using ProBuilder and ProGrids, and on First Person View. 
